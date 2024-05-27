@@ -4,7 +4,7 @@
 **A macOS Sonoma 14.5 theme that has some Aqua elements in it**
 
 **PREVIEW** - subject to change
-![AquaLickXPreview@2x](https://github.com/VisualisationExpo/AquaLickX-Sonoma145Edition/blob/main/LightModeAquaLickXPreview@2x?raw=true)
+![LightModeAquaLickXPreview@2x.png](https://github.com/VisualisationExpo/AquaLickX-Sonoma145Edition/blob/main/LightModeAquaLickXPreview@2x.png?raw=true)
 
 **DARK MODE PREVIEW**
 ![DarkModeAquaLickXPreview@2x](https://github.com/VisualisationExpo/AquaLickX-Sonoma145Edition/blob/main/DarkModeAquaLickXPreview@2x.png?raw=true)
