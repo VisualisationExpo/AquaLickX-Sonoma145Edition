@@ -1,4 +1,8 @@
-# NOTE:**This theme is trickly for macOS Sonoma 14.5**
+# NOTE:**This theme is strickly for macOS Sonoma 14.5**
+
+# I see some errors when not having Reduce transparency active.
+## I would advice that you do use Reduce transparency. That way you also have a themed menu bar.
+> In System Settings go to Accessibility - then Display - then activate Reduce transparency
 
 # AquaLickX for macOS Sonoma 14.5
 **A macOS Sonoma 14.5 theme that has some Aqua elements in it**
