@@ -10,9 +10,16 @@
 **PREVIEW** - subject to change
 ![LightModeAquaLickXPreview@2x.png](https://github.com/VisualisationExpo/AquaLickX-Sonoma145Edition/blob/main/LightModeAquaLickXPreview@2x.png?raw=true)
 
-**DARK MODE PREVIEW**
+**DARK MODE PREVIEW - DOWNLOAD NOW - USE SAME INSTALLATION PROCEDURE**
 ![DarkModeAquaLickXPreview@2x](https://github.com/VisualisationExpo/AquaLickX-Sonoma145Edition/blob/main/DarkModeAquaLickXPreview@2x.png?raw=true)
 ---
+
+_18th of July 2024_
+**SQUARE WINDOWS PREVIEW**
+
+![SquaredWindows-Preview@2x](https://github.com/VisualisationExpo/AquaLickX-Sonoma145Edition/blob/main/AquaLickX-Sonoma145Edition-Squared/SquaredWindows-Preview@2x.png?raw=true)
+
+----
 
 ### **GETTING READY**
 
